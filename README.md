@@ -12,7 +12,7 @@
 - Вывод данных в датафрейм.
 - Подключение к Google Sheets API.
 - Обновление данных в Google Sheets.
-- Вывод полученной информации на дашборд в Looker Studio с подключением к Google Sheets..
+- Вывод полученной информации на дашборд в Looker Studio с подключением к Google Sheets.
 
 ## Инструменты
 
@@ -32,3 +32,4 @@
 - Осуществлено подключение к Google Sheets API.
 - Произведено обновление данных в Google Sheets.
 - Полученная информация выведена на дашборд [«Индекс качества воздуха»](https://lookerstudio.google.com/reporting/e1123b91-adca-4516-914b-1b13d36093a6) в Looker Studio с подключением к Google Sheets.
+- Презентация [«Индекс качества воздуха»]([https://lookerstudio.google.com/reporting/e1123b91-adca-4516-914b-1b13d36093a6](https://drive.google.com/file/d/1BFE23mUTN0uJif2qrirp9OxFvMyQONVL/view?usp=drive_link)).
